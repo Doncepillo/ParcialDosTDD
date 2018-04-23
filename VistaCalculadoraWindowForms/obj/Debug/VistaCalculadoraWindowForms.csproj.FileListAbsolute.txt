@@ -1,0 +1,11 @@
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\bin\Debug\VistaCalculadoraWindowForms.exe.config
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\bin\Debug\VistaCalculadoraWindowForms.exe
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\bin\Debug\VistaCalculadoraWindowForms.pdb
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\bin\Debug\CalculadoraBasica.dll
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\obj\Debug\VistaCalculadoraWindowForms.csprojResolveAssemblyReference.cache
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\obj\Debug\VistaCalculadoraWindowForms.Properties.Resources.resources
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\obj\Debug\VistaCalculadoraWindowForms.csproj.GenerateResource.Cache
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\obj\Debug\VistaCalculadoraWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\obj\Debug\VistaCalculadoraWindowForms.exe
+C:\Users\Programación\source\repos\ParcialDosTDD\VistaCalculadoraWindowForms\obj\Debug\VistaCalculadoraWindowForms.pdb

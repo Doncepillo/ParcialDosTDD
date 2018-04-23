@@ -1,0 +1,2 @@
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraSimple\obj\Debug\CalculadoraSimple.csprojResolveAssemblyReference.cache
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.CoreCompileInputs.cache

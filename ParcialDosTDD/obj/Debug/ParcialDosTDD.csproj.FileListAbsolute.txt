@@ -1,0 +1,9 @@
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\bin\Debug\ParcialDosTDD.exe.config
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\bin\Debug\ParcialDosTDD.exe
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\bin\Debug\ParcialDosTDD.pdb
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\obj\Debug\ParcialDosTDD.csprojResolveAssemblyReference.cache
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\obj\Debug\ParcialDosTDD.Properties.Resources.resources
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\obj\Debug\ParcialDosTDD.csproj.GenerateResource.Cache
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\obj\Debug\ParcialDosTDD.csproj.CoreCompileInputs.cache
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\obj\Debug\ParcialDosTDD.exe
+C:\Users\Programación\source\repos\ParcialDosTDD\ParcialDosTDD\obj\Debug\ParcialDosTDD.pdb

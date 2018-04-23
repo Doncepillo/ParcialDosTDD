@@ -1,0 +1,6 @@
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraBasica\bin\Debug\CalculadoraBasica.dll
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraBasica\obj\Debug\CalculadoraBasica.dll
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\Programación\source\repos\ParcialDosTDD\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
